@@ -11,7 +11,7 @@ L'assistant porte le nom de `Ai-tlas`.
 
 1. Train `Ai-tlas`
 
-    - Gather data
+    - Gather data (ok)
         - positif
         - negatif
         - neutre
