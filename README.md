@@ -16,12 +16,13 @@ L'assistant porte le nom de `Ai-tlas`.
         - negatif
         - neutre
 
+    - Load data (ok)
+
     - Sanitize data
-        - dictionnaire
+        - dictionnaire (ok)
         - mots vides
-        - TF formula
-        - TF.IDF formula
-        - TF.IDF of a whole document
+        - TF formula (ok)
+        - TF.IDF formula (ok)
 
 2. Test `Ai-tlas`
 
