@@ -1,8 +1,8 @@
 from classes.FileReader import FileReader
+from classes.Sanitizer import Sanitizer
     
 if __name__ == '__main__':
-    # data = FileReader.load_data('data/neutre.txt')
-    # print(data[5])
     
     data = FileReader.load_all()
-    print(data['negatif'][5])
+    
+    # print(Sanitizer.dictionary_from_list_sentence(data['negatif']))
